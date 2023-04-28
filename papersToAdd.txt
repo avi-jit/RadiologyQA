@@ -1,0 +1,13 @@
+https://www.semanticscholar.org/paper/Slake%3A-A-Semantically-Labeled-Knowledge-Enhanced-Liu-Zhan/93b6b79b4ef6c345f31722ce7c829385c6dce0d6
+https://www.semanticscholar.org/paper/A-dataset-of-clinically-generated-visual-questions-Lau-Gayen/18f9a6045ba01cb079c4fa49a630d71bbd27cd92
+https://www.semanticscholar.org/paper/Large-Scale-Domain-Specific-Pretraining-for-Zhang-Xu/d8da72e7857cc1a0d3505e6c8a746eac815901b2
+https://www.semanticscholar.org/paper/BioBERT%3A-a-pre-trained-biomedical-language-model-Lee-Yoon/1e43c7084bdcb6b3102afaf301cce10faead2702
+https://www.semanticscholar.org/paper/RAMM%3A-Retrieval-augmented-Biomedical-Visual-with-Yuan-Jin/4d4a96708fc67403176bb2b891b564af7a20c148
+https://www.semanticscholar.org/paper/Does-CLIP-Benefit-Visual-Question-Answering-in-the-Eslami-Melo/4ef3d9e492479e28fa57d107e52acc6a0c803de2
+https://www.semanticscholar.org/paper/Image-as-a-Foreign-Language%3A-BEiT-Pretraining-for-Wang-Bao/02251886950770e82b3d68564d60cdfe15e73199
+https://www.semanticscholar.org/paper/Generalized-Decoding-for-Pixel%2C-Image%2C-and-Language-Zou-Dou/967907503b24423b9b74621051811fcf684e3957
+https://www.semanticscholar.org/paper/BLIP-2%3A-Bootstrapping-Language-Image-Pre-training-Li-Li/336ce63b472a65f053f854d45851d6f0e896f05e
+https://www.semanticscholar.org/paper/From-Images-to-Textual-Prompts%3A-Zero-shot-VQA-with-Guo-Li/6edcb09a09c8df43cb62119133df9bb2eb75e5cf
+https://www.semanticscholar.org/paper/Visual-ChatGPT%3A-Talking%2C-Drawing-and-Editing-with-Wu-Yin/af997821231898a5f8d0fd78dad4eec526acabe5
+https://www.semanticscholar.org/paper/ViperGPT%3A-Visual-Inference-via-Python-Execution-for-Sur'is-Menon/6e754273d54a91371efbc928cd6b156364d517da
+https://pubmed.ncbi.nlm.nih.gov/36513187/
