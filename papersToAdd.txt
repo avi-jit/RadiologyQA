@@ -1,2 +1,2 @@
-https://www.semanticscholar.org/paper/Large-Scale-Domain-Specific-Pretraining-for-Zhang-Xu/d8da72e7857cc1a0d3505e6c8a746eac815901b2
+https://arxiv.org/abs/2303.00915
 https://pubmed.ncbi.nlm.nih.gov/36513187/
