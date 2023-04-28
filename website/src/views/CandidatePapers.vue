@@ -105,7 +105,7 @@ const columnDefs = ref({
       minWidth: 60,
     },
     { field: "authors", wrapText: true, autoHeight: true, minWidth: 250 },
-    { field: "summary" },
+    { field: "summary", wrapText: true, autoHeight: true, minWidth: 250 },
   ],
 });
 
